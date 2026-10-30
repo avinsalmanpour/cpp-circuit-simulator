@@ -1,32 +1,10 @@
-# Build directories
-cmake-build-debug/
-cmake-build-release/
-build/
-
-# CLion / JetBrains
-.idea/
-*.iml
-
-# Compiled files
-*.exe
-*.out
-*.o
-*.obj
-
-# CMake generated files
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-compile_commands.json
-
-# CLion local files
+# Default ignored files
 /shelf/
 /workspace.xml
-
 # Editor-based HTTP Client requests
 /httpRequests/
-
-# Datasource local storage files
+# Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+cmake-build-debug
